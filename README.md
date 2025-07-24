@@ -13,7 +13,7 @@ A clean and professional Flutter app integrated with Firebase Authentication usi
 - Real-time Field Validation
 - Friendly Error Messages (Network, Wrong Input, etc.)
 - Auto-Clear Fields After Success
-  Fully Responsive UI with Gradient Background
+- Fully Responsive UI with Gradient Background
 
 
 # Firebase Setup 
