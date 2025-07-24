@@ -20,12 +20,11 @@ A clean and professional Flutter app integrated with Firebase Authentication usi
 # Folder Structure
 ## lib/
 - main.dart
-├── login_screen.dart
-├── signup_screen.dart
-├── forgot_password_screen.dart
-├── home_screen.dart
-├── custom_textfield.dart
-
+- login_screen.dart
+- signup_screen.dart
+- forgot_password_screen.dart
+- home_screen.dart
+- custom_textfield.dart
 
 # Firebase Setup 
 1. Go to [Firebase Console](https://console.firebase.google.com)
