@@ -5,15 +5,15 @@ A clean and professional Flutter app integrated with Firebase Authentication usi
 
 #Features
 
-- ✅ Email & Password Sign Up
-- ✅ Email & Password Login
-- ✅ Sign Out
-- ✅ Forgot Password via Email
-- ✅ Show/Hide Password Toggle
-- ✅ Real-time Field Validation
-- ✅ Friendly Error Messages (Network, Wrong Input, etc.)
-- ✅ Auto-Clear Fields After Success
-- ✅ Fully Responsive UI with Gradient Background
+- Email & Password Sign Up
+- Email & Password Login
+- Sign Out
+- Forgot Password via Email
+- Show/Hide Password Toggle
+- Real-time Field Validation
+- Friendly Error Messages (Network, Wrong Input, etc.)
+- Auto-Clear Fields After Success
+  Fully Responsive UI with Gradient Background
 
 
 # Firebase Setup 
