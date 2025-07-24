@@ -18,8 +18,8 @@ A clean and professional Flutter app integrated with Firebase Authentication usi
 - firebase_auth: ^4.17.0
   
 # Folder Structure
-lib/
-├── main.dart
+## lib/
+- main.dart
 ├── login_screen.dart
 ├── signup_screen.dart
 ├── forgot_password_screen.dart
